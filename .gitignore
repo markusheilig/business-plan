@@ -1,0 +1,7 @@
+*.aux
+*.bbl
+*.blg
+*.log
+business-plan.pdf
+*.synctex.gz
+*.toc
