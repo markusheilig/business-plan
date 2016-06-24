@@ -2,26 +2,32 @@
 
 % packages
 \usepackage[german]{babel}
+\usepackage[utf8]{inputenc}
 \usepackage{blindtext}
-
-
-\title{Business Plan}
-\author{Nico Wonneberger \\ Sergej Birklin \\ Pavan Singh \\ Markus Heilig}
-\date{\today}
+\usepackage[onehalfspacing]{setspace}
+\usepackage{hyperref}
 
 \begin{document}
-\maketitle
 
+\pagenumbering{gobble}
+\include{titelseite}
 \tableofcontents
+\clearpage
 
-\include{executive_summary}
+\pagenumbering{arabic}
+\include{executive_summary}	
 \include{produkt_und_dienstleistung}
 \include{markt_und_wettbewerb}
 \include{marketing_und_vertrieb}
+\include{geschaeftsmodell_und_organisation}
 \include{unternehmerteam}
+\include{realisierungsfahrplan}
 \include{chancen_und_risiken}
 \include{finanzplan_und_finanzierung}
 
-pavan: p1206-htwg
+\pagenumbering{Roman}
+\begin{appendix}
+\include{anhang}
+\end{appendix}
 
 \end{document}
