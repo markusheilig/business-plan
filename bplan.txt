@@ -1,14 +1,61 @@
 Elemente des Businessplanes:
 1. Executive Summary
-2. Produkt oder Dienstleistung
-3. Markt und Wettbewerb
-4. Marketing und Vertrieb
-5. Geschäftsmodell und Organisation
-6. Unternehmerteam, Management, Personal
-7. Realisierungsfahrplan
-8. Chancen und Risiken
-9. Finanzplanung und Finanzierung
+    -> Zusammenfassung, am Ende
+2. Produkt oder Dienstleistung (NICO)
+    -> Vorstellung der App    
+    -> kostenlos
+    -> features kaufen oder freischalten
+    -> international, die neue lifestyle-app    
+3. Markt und Wettbewerb (SERGEJ)
+    -> Apps
+    -> Instagram, Twitter, Pinterest
+    -> Wettbewerbsanalyse
+4. Marketing und Vertrieb (NICO)
+    -> Diversifikation, App ist was besonderes (Layout)
+    -> AppStore
+    -> Werbung (Wo? Facebook! App-reviews auf youtube! Ad-Words / Ad-Sense!)    
+5. Geschäftsmodell und Organisation (PAVAN)
+    -> ausstattung (laptop, server, software, büro)        
+    -> wie verdienen wir geld -> in-app käufe
+    -> welche rechtsform macht sinn? GbR? GmbH? AG?
+6. Unternehmerteam, Management, Personal (MARKUS)
+    -> teambeschreibung, warum sind wir auch die richtigen für unsere idee (kompetenzen, erfahrung)
+    -> wie sind wir aufgebaut? pavan business manager, sergej, ... nico ,.... markus ....
+    -> zukünfig versärkung? brauchen wir neue / mehr mitarbeiter?
+7. Realisierungsfahrplan (MARKUS)
+    -> machbarkeitsstudie von der app gemacht
+    -> team-aquise (wir wissen was wir meinen)
+    -> prototyp + screen-designs
+    -> investoren 
+    -> entwicklungsschritte (erst android, dann ios, dann backend)
+        - meilensteine setzen  
+    -> ziele SMART spezifisch
+8. Chancen und Risiken (SERGEJ)
+    Risiken
+    -> entwicklungsprobleme (auslieferungsverzug, deadlines nicht einhalten, fehlende kompetenzen, )
+    -> app setzt sich nicht gegen konkurrenten durch
+    -> app wird nicht angenommen
+    -> in-app-käufe (preis-politik -> preise zu hoch, keiner kauft was ODER preise zu niedrig, wir decken keine kosten)
+    -> App-Idee wird kopiert    
+    Chancen
+    -> hoher marktanteil
+    -> produkt wird vom markt angenommen + spielt geld in die kasse
+    -> bekanntheitsgrad der App sowie uns als Entwicklerteam
+    -> Instagram will uns für 100000000 Millionen€ am Tag kaufen    
+9. Finanzplanung und Finanzierung (PAVAN)
+    EINNAHMEN:
+    -> Wie teuer ist ein In-App Kauf bei anderen Apps?
+    -> Wie viele User brauchen wir also, dass wir unsere Kosten decken?    
+    KOSTEN
+    -> was sind einmalanschaffungen (gemeinkosten) -> büroeinrichtung, server, pc
+    -> was sind laufende kosten (betriebskosten) -> miete, strom, heizung, sw-lizenzen, grunddeckung p.P. 800€-1000€
+    -> geld für werbung -> zahlen im internet recherchieren
+    -> gründungskosten für unternehmensanmeldung    
+    -> wie viel fremdkapital? wir brauchen geld für werbung!
+    -> wir haben etwas eigenkapital (jeder hat 2000€ in die firma investiert)    
 10. Anhang
+    -> screen-designs
+    -> creative brief
 
 
 Was ist eine Geschäftsidee?
