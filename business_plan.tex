@@ -1,4 +1,4 @@
-\documentclass[11pt]{report}
+\documentclass[11pt]{scrreprt}
 
 % packages
 \usepackage[german]{babel}
@@ -6,6 +6,14 @@
 \usepackage{blindtext}
 \usepackage[onehalfspacing]{setspace}
 \usepackage{hyperref}
+
+% remove chapter number in chapter title
+\usepackage{titlesec}
+
+% move titles up to page top
+\renewcommand*{\chapterheadstartvskip}{\vspace*{-1cm}}
+
+
 
 \begin{document}
 
