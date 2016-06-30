@@ -7,14 +7,20 @@
 \usepackage[onehalfspacing]{setspace}
 \usepackage{hyperref}
 \usepackage{todonotes}
+\usepackage{microtype}
 
-% remove chapter number in chapter title
-\usepackage{titlesec}
+% move page number down
+\usepackage[includefoot,bottom=70pt]{geometry}
+
+% page style
+\usepackage{fancyhdr}
+\pagestyle{headings}
+
+% serif font in title, chapter and sections
+\addtokomafont{disposition}{\rmfamily}
 
 % move titles up to page top
 \renewcommand*{\chapterheadstartvskip}{\vspace*{-1cm}}
-
-
 
 \begin{document}
 
@@ -22,6 +28,8 @@
 \include{titelseite}
 \tableofcontents
 \clearpage
+
+\listoftodos
 
 \pagenumbering{arabic}
 \include{executive_summary}	
